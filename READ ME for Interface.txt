@@ -1,0 +1,11 @@
+READ ME for Interface
+
+To save correctly:
+- To run the interface safe the FLASK App and all pickle files into a Folder.
+- Then create a subfolder for templates for all HTML templates.
+
+OR
+- just download the Folder from GitHub as it is and keep the structure
+
+To run correctly:
+- Run the FLASK App -> prediction interface will open automatically
